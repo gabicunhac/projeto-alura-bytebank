@@ -33,3 +33,4 @@ Ao final, deve aparecer a tela de entrada na sua conta.
 - [Modelo de tutorial](https://github.com/marimoreiratw/projeto-alura/blob/main/tutorial.md)
 - [Perguntas frequentes](./faq.md)
 - [Troubleshooting Bytebank](./troubleshooting.md)
+ 
