@@ -5,7 +5,7 @@ A partir dela, você poderá acessar os produtos de investimento disponíveis, r
 
 Para adquirir a sua conta, siga os passos a seguir:
 
-**Passo 1: realize o cadastro na plataforma**
+**Passo 1: realize o cadastro na plataforma** 
 
 **Passo 2: preencha o formulário de perfil de investidor**
 
