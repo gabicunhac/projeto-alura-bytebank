@@ -9,7 +9,7 @@ Notas de versão do Bytebank, com foco no que muda para a pessoa usuária, corre
   - [Melhorias](#melhorias-101)
   - [Correções](#correções-101)
   - [Problemas conhecidos](#problemas-conhecidos-101)
-  - [Compatibilidade](#compatibilidade-101)
+  - [Compatibilidade](#compatibilidade-101) 
   - [Links úteis](#links-úteis-101)
 
 ---
