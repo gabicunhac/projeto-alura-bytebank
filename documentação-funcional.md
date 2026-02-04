@@ -42,4 +42,4 @@ A Bytebank é para pessoas que querem praticidade para cuidar da vida financeira
 - **Jovens entre 16 e 18 anos** podem ter conta com responsável financeiro, quando solicitado no cadastro.
 
 ## Crie sua conta
-Para iniciar sua jornada na Bytebank, acesse o tutorial de [Como criar uma conta]()
+Para iniciar sua jornada na Bytebank, acesse o tutorial de [Como criar uma conta]() 
