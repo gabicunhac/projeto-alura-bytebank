@@ -36,7 +36,7 @@ Sim, se o seu celular tiver biometria disponível. Ative em **Configurações** 
 ## PIX e transferências
 
 ### 1. O PIX é gratuito
-Sim, o PIX pela Bytebank é gratuito para pessoas físicas.
+Sim, o PIX pela Bytebank é gratuito para pessoas físicas. 
 
 ### 2. Como faço um PIX
 No app, acesse **PIX**, escolha o tipo de chave ou cole o código, confirme os dados e finalize.
