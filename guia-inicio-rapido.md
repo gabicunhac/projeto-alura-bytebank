@@ -40,4 +40,4 @@ Este guia rápido mostra como fazer seu primeiro investimento na Bytebank.
 ## Próximos passos
 - Configure um lembrete de vencimento, se disponível para o seu produto
 - Explore outras categorias para diversificar sua carteira
-- Fale com o suporte ou com seu consultor Bytebank se precisar de ajuda
+- Fale com o suporte ou com seu consultor Bytebank se precisar de ajuda 
